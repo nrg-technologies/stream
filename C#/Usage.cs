@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace YIGIM
+namespace STREAM
 {
     class Usage
     {

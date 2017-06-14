@@ -5,7 +5,7 @@ using System.Linq;
 using System.IO;
 using System.Text;
 
-namespace YIGIM
+namespace STREAM
 {
     class Token
     {
